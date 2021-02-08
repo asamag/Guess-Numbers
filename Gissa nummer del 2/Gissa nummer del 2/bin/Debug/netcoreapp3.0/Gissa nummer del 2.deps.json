@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Gissa nummer del 2/1.0.0": {
+        "runtime": {
+          "Gissa nummer del 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gissa nummer del 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
